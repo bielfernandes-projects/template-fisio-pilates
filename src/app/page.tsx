@@ -251,7 +251,7 @@ export default function Home() {
 
         <div className="mx-auto mt-12 max-w-7xl border-t border-border pt-8 text-center">
           <p className="text-xs text-muted-foreground">
-            &copy; {new Date().getFullYear()} {about.name} — {about.crefito}
+            &copy; {new Date().getFullYear()} — {about.name} — {about.crefito}
           </p>
         </div>
       </footer>

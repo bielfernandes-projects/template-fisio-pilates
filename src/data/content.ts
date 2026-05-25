@@ -10,7 +10,7 @@ export const siteData = {
     { id: 3, title: "Osteopatia", description: "Terapia manual para realinhamento e alívio de dores crônicas." }
   ],
   about: {
-    name: "Dra. Nome da Profissional",
+    name: "Dra. Maria da Silva",
     crefito: "CREFITO-XX: 123456-F",
     bio: "Especialista em biomecânica e reabilitação com mais de 10 anos de experiência transformando a vida e o movimento dos pacientes."
   },
